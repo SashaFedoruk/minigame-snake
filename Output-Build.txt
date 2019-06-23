@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Excange, Configuration: Debug Any CPU ------
+1>C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Excange\Excange.cs(11,35,11,45): warning CS0067: The event 'NExcange.Excange.ParsePrice' is never used
+1>C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Excange\Excange.cs(12,35,12,44): warning CS0067: The event 'NExcange.Excange.FallPrice' is never used
+1>C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Excange\Excange.cs(13,35,13,42): warning CS0067: The event 'NExcange.Excange.InStack' is never used
+1>C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Excange\Excange.cs(14,35,14,45): warning CS0067: The event 'NExcange.Excange.OutOfStack' is never used
+1>  Excange -> C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Excange\bin\Debug\Excange.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

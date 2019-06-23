@@ -1,0 +1,12 @@
+C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Snake\bin\Debug\Snake.exe.config
+C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Snake\bin\Debug\Snake.exe
+C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Snake\bin\Debug\Snake.pdb
+C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Snake\obj\Debug\Snake.exe
+C:\Users\Александр\documents\visual studio 2013\Projects\Excange\Snake\obj\Debug\Snake.pdb
+C:\Users\TEMP\Desktop\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\TEMP\Desktop\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\TEMP\Desktop\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\TEMP\Desktop\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\TEMP\Desktop\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\TEMP\Desktop\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
